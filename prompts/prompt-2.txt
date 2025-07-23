@@ -21,4 +21,3 @@ At the end, include a short summary of what changes you made and why.
 
 
 Conclusion:
-Prompt was not outputting in raw .md format preventing easy copy and pasting.
