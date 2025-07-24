@@ -41,3 +41,7 @@ Therefor a well crafted README file can optimize the interaction with the AI mod
 ## Limitations
 
 Due to the free tier limitations, long README files may not be fully processed by the AI models causing some sections to be truncated. This is a limitation of the token count in the free tier of the AI models.
+
+## Results
+
+The best results were achieved by `prompt-2.txt`
