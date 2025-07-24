@@ -20,4 +20,3 @@ Return the improved README in Markdown, restructuredtext or .txt format. Determi
 At the end, include a brief summary of the changes you made and why.
 :inbox_tray: README to Improve
 Paste the README content below this line:
-[Add your README content here]
