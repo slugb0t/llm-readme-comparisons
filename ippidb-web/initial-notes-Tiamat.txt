@@ -1,0 +1,11 @@
+Prompt 6 Analysis – IPPIDB-WEB
+
+ChatGPT-generated README:
+
+    The instructions were reorganized into clearer sections, but this did not improve their clarity or usability.
+
+    No substantial improvements were made beyond rearranging code blocks.
+
+Deepseek-generated README:
+
+    This version largely preserved the structure and content of the original README, with minimal changes or enhancements.
