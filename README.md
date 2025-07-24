@@ -40,14 +40,36 @@ Therefor a well crafted README file can optimize the interaction with the AI mod
 
 ## Limitations
 
-- Due to the free tier limitations, long README files may not be fully processed by the AI models causing some sections to be truncated. This is a limitation of the token count in the free tier of the AI models.
+- Due to the free tier limitations, long README files may not be fully processed by the AI models causing some sections to be truncated, resulting in missing key information. This is a limitation of the token count in the free tier of the AI models.
 
 - VSCode's Copilot extension gave a roadblock by blocking requests since it considered the README file content as "public code" and would not moved forward with the request. We opted to use the Copilot web interface instead, which allowed us to bypass this limitation.
 
-- 
+- Time constraints limited to CoFest being only two days, which meant we could not explore more prompt iterations or providing more context to the AI with GitHub's API metadata.
 
 ## Results
 
-Interesting results were observed due to the README files being structured in different manners and formats. Some README files were more structure and detailed causing the AI models to truncate README files, while other README files were short and not structured causing limitations in what the AI models could improve.
+Various results were observed due to the README files being structured in different manners and formats. Some README files were more structured and detailed causing the AI models to truncate README files, while minimal README files remained short causing limitations in what the AI models could improve.
 
-A possible improvement could be supplying short README files with repository metadata gathered from GitHub's API, which would provide the AI more context.
+### Best results
+
+For best results a middle ground between long, detailed and minimal README files would provide the best results. The README files would be structured in a way that the AI models can understand the context and provide improvements without truncating key information.
+
+### Hallucinations
+
+Hallucinations were minimal but present in some outputs, especially when the AI model wanted to created new sections or provide additional information for minimal READMEs. For example, an original README file mentioned the CMU Computational Biology Hackathon (Mar 3–5, 2025) but when ChatGPT created a link for the phrase it led to the University's main home page.
+
+### Key differences between AI models
+
+ChatGPT 4.1 mini (Free tier) loved using emojis while DeepSeek focused more on formatting. Copilot provided a balance of the two, using emojis while also improving the structure of the README files.
+
+### Potential future improvements
+
+- Supplying short README files with repository metadata gathered from GitHub's API, which would provide the AI more context.
+
+- Inputting long README files into smaller sections to avoid truncation and loss of key information.
+
+- Enhancing the prompt to be more general purpose and not specific to a single format.
+
+- Using an AI model's API to allow more control over the input and output.
+
+- Using a more advanced AI model that can handle longer input and output tokens.

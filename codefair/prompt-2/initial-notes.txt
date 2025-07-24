@@ -1,0 +1,20 @@
+Notes on Codefair comparisons:
+
+- Prompt-2 (Chatgpt):
+* Visually appealing with Emojis, Badges, Bolding key phrases/words, thicker dividers per sections
+* Loves using Emojis
+* Added Overview section at the top whereas original started with Description section
+* Corrected bad link regarding LICENSE section to a correct one (lucky guess)
+
+
+- Prompt 2 (Copilot):
+* Table of contents added
+* Reorganized sections for logical flow (Description → Features → Quick Start → Documentation → Development)
+* Improved overall formatting
+* Kept all links
+
+- Prompt 2 (DeepSeek):
+* Table of contents added
+* Added emojis
+* Preserved badges and links
+* Visual improvements

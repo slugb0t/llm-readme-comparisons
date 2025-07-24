@@ -1,0 +1,28 @@
+Notes by Dorian Portillo
+
+Notes on blended-sqe-imputation comparisons:
+
+- Prompt-2 (Chatgpt):
+* Visually appealing with Emojis, Badges, Bolding key phrases/words, thicker dividers per sections
+* Table of contents added
+* [CMU Computational Biology Hackathon (Mar 3–5, 2025)](https://library.cmu.edu/) (created link for Hackathon but only leads to CMU's library page)
+* Blended Genome Exome (BGE) is a novel sequencing strategy introduced by the Broad Institute (Broad institute provided a link)
+* If hyperlinks depend on the leading to somewhere within the original repository then it would be a broken link.
+* Provided ordered, clean sections with better usage instructions if original document provided it.
+* Was somehow able to determine the LICENSE even tho it wasn't provided in the original readme file
+* Added codeblocks for commands
+
+
+- Prompt 2 (Copilot):
+* Created badges and bolder dividers per sections
+* Table of contents added
+* If it decided that it couldn't provide more input then is added in brackets [Insert more info here if applicable]
+* Create a LICENSE section but left it open for the user to update
+* Created extra sections titles that are recommended with [brackets] to allow user to fill in missing information
+* Added codeblocks for commands
+
+- Prompt 2 (DeepSeek):
+* Table of contents added
+* Truncated information into bullets points
+* Created hyperlinks where it deemed relevant such as DOI values where generated to have hyperlinks
+* Added codeblocks for commands
