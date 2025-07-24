@@ -27,6 +27,10 @@ Output Format:
 
 After the raw Markdown content, provide a short summary of the changes made and why (outside of Markdown).
 
+README content below:
 
+[Add your README content here]
 
 Conclusion: Prompt 3 generated after asking chatgpt to improve upon prompt 2 but due to the frontend interface, it was preventing raw markdown output without the web interface trying to format it visually. This was causing issues with easy copy and pasting of the README content.
+
+Note: The frontend interfaces provide a copy button that copies the content in raw markdown format.
