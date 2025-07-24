@@ -1,0 +1,39 @@
+###Haplotype_matrix_clustering
+
+##Prompt 2 Analysis
+
+#ChatGPT-generated README:
+
+    The Installation section is more developed and clearer than in Prompt 6.
+
+    Includes many links, though some appear to be placeholders or not functional.
+
+    Overall, the README is too brief and lacks depth.
+
+    Contains placeholders (e.g., []) that require manual completion.
+
+#Deepseek-generated README:
+
+    The Discussion section is concise and reasonably well summarized.
+
+    References are listed with DOIs but lack clickable links or proper citation formatting.
+
+##Prompt 6 Analysis
+
+#ChatGPT-generated README:
+
+    The Project Overview section is well-structured and informative.
+
+    The Results section is overly short and lacks detail.
+
+    Reference links generally work, but some other links are broken or non-functional.
+
+    The Discussion section is clearly written and logically organized.
+
+#Deepseek-generated README:
+
+    Introduces several sections that are left empty or incomplete, requiring manual input.
+
+    Some embedded links are broken or lead nowhere.
+
+    The Results are shared as links rather than being summarized directly in the README.
