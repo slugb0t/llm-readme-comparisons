@@ -18,6 +18,11 @@
 
     References are listed with DOIs but lack clickable links or proper citation formatting.
 
+#Copilot-generated README:
+
+Hallucinated Usage
+    Contains plenty of placeholders (e.g., []) that require manual completion.
+
 ##Prompt 6 Analysis
 
 #ChatGPT-generated README:
@@ -37,3 +42,8 @@
     Some embedded links are broken or lead nowhere.
 
     The Results are shared as links rather than being summarized directly in the README.
+
+#Copilot-generated README:
+
+Performed slightly better on results 
+Conserved the references in the format
