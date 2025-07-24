@@ -1,6 +1,3 @@
-Here's the improved README file with better structure, clarity, and completeness while maintaining all original content:
-
-```markdown
 # Haplotype Matrix Clustering Pipeline
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -102,7 +99,7 @@ Key challenges and insights:
 - [OpenCravat](https://docs.opencravat.org/en/latest/)
 - [DNANexus](https://platform.dnanexus.com/)
 - [JupyterLab](https://jupyter.org/)
-```
+
 
 ### Summary of Changes:
 1. **Structure**: Added clear section headers and table of contents
